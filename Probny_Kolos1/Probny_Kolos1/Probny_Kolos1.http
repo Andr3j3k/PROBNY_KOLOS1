@@ -1,0 +1,6 @@
+@Probny_Kolos1_HostAddress = http://localhost:5125
+
+GET {{Probny_Kolos1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
